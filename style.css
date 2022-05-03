@@ -1,0 +1,25 @@
+.nav-link{
+    font-weight: 600;
+    color: black;
+}
+.navbar-brand{
+    font-weight: 650;
+    font-size: 25px;
+    color: black;
+}
+.Gallery{
+    color: rgb(27, 27, 227);
+}
+.write{
+    margin-right: 20px;
+}
+
+
+.writeup{
+    font-weight: 400;
+}
+@media(min-width: 768px){
+    .image-input{
+        width: 50%;
+    }
+}
